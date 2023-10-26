@@ -1,0 +1,15 @@
+button{
+    height:100px ;
+    width: 300px;
+    margin: 300px 300px 300px 300px;
+    border-radius: 30px;
+    background-color: chartreuse;
+    color:black;
+    font-size: 30px;
+    text-decoration: underline;
+    font-style: italic;
+}
+
+body{
+    background-color: black;
+}
